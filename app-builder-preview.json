@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Painel",
+      "hasCanvas": false,
+      "bodyTextLen": 1347,
+      "bodyTextHash": "af6b3e9d322ecab085c53183c7df37c2045b93ed176f3e4472a5f11c662f6eba",
+      "bodyTextPrefix": "Painel Estúdio Escrever ESTÚDIO DE ROTEIRO Escreva a HQ. Painel ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Painel",
+      "hasCanvas": false,
+      "bodyTextLen": 1347,
+      "bodyTextHash": "af6b3e9d322ecab085c53183c7df37c2045b93ed176f3e4472a5f11c662f6eba",
+      "bodyTextPrefix": "Painel Estúdio Escrever ESTÚDIO DE ROTEIRO Escreva a HQ. Painel ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
