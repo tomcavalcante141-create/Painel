@@ -1,0 +1,72 @@
+Beleza, vamos desenvolver isso juntos.
+
+Pelo que entendi até agora, você quer criar um **app ou site** focado em ajudar pessoas a fazer HQs e mangás, com **prioridade total no roteiro** (já que a arte e a quadrinização ficam com o usuário).
+
+Vou te ajudar a estruturar e melhorar a ideia. Primeiro vou te mostrar uma visão clara do produto, depois a gente aprofunda.
+
+### Visão geral do produto
+
+**Nome provisório (pode mudar):**  
+- ScriptPanel  
+- RoteiroHQ  
+- MangaScript  
+- PainelRoto  
+- ou algo mais criativo que você preferir
+
+**Proposta de valor:**  
+Um editor inteligente e simples feito especialmente para quem escreve roteiros de quadrinhos e mangá. O foco é transformar a ideia em um roteiro bem estruturado, página por página e painel por painel, de forma organizada e fácil de usar.
+
+### Principais funcionalidades (versão inicial recomendada)
+
+1. **Editor de Roteiro Especializado**
+   - Estrutura pronta: Página → Painel → Descrição visual → Diálogo / Pensamento / Legenda / SFX
+   - Formatação automática (não precisa ficar digitando “Painel 1”, “Painel 2”… o sistema organiza)
+   - Modo “Manga” e modo “HQ Ocidental” (ritmo e estilo de escrita diferentes)
+   - Visualização lado a lado: texto do roteiro + preview de como ficaria a página (mesmo sem desenho)
+
+2. **Ferramentas de Desenvolvimento da História**
+   - Cadastro de personagens (ficha completa + relações entre eles)
+   - Worldbuilding (locais, regras do mundo, timeline)
+   - Outline / estrutura de atos (começo, conflito, clímax, resolução)
+   - Notas e ideias soltas que depois podem virar cenas
+
+3. **Fluxo de Trabalho Inteligente**
+   - Começar pela ideia (logline) → Outline → Roteiro detalhado
+   - Possibilidade de trabalhar em capítulos ou em oneshot
+   - Controle de versão (histórico de alterações do roteiro)
+   - Comentários e anotações dentro do próprio roteiro
+
+4. **Exportação e Compartilhamento**
+   - Exportar em PDF formatado (pronto para mandar para o artista ou para imprimir)
+   - Exportar em texto limpo ou Markdown
+   - Link compartilhável (só leitura ou com permissão de edição)
+   - Possibilidade de exportar só as descrições de painéis (para o artista focar nisso)
+
+5. **Extras que elevam o produto**
+   - Biblioteca de templates de páginas (layouts comuns de mangá e HQ)
+   - Sugestões de ritmo (ex: “essa página está muito falada, que tal quebrar em mais painéis?”)
+   - Modo foco (escreve sem distrações)
+   - Estatísticas simples (número de páginas, balões por página, densidade de texto etc.)
+
+### Diferenciais importantes (para ficar melhor que as ferramentas genéricas)
+
+- Feito **especificamente** para quadrinhos (não é um Google Docs disfarçado)
+- Respeita o ritmo visual (não trata o roteiro como um texto corrido)
+- Separação clara entre “o que o leitor vê” e “o que o personagem fala/pensa”
+- Facilita a comunicação entre roteirista e desenhista (mesmo que seja a mesma pessoa)
+
+### Perguntas para a gente melhorar a ideia agora
+
+Responde o que puder para eu ir refinando:
+
+1. O app/site é mais para **você usar** ou você quer lançar para outras pessoas também?
+2. Prefere começar com um **site** (mais fácil de fazer) ou já pensa em **app mobile** também?
+3. Qual o público principal?
+   - Iniciantes que nunca escreveram roteiro
+   - Pessoas que já escrevem e querem organização
+   - Quem faz mangá / quem faz HQ estilo ocidental / ambos
+4. Você quer que tenha alguma ajuda de IA (sugestões de diálogo, de estrutura, de ritmo)?
+5. Tem alguma funcionalidade que você acha **obrigatória** desde o começo?
+
+Pode me falar livremente o que você imaginou até agora.  
+Quanto mais detalhes você der, mais preciso eu consigo te ajudar a estruturar e melhorar.
